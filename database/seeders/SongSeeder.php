@@ -22,5 +22,13 @@ class SongSeeder extends Seeder
             'artist' => 'A P Dhillon',
             'title' => 'With You',
         ]);
+        Song::create([
+            'artist' => 'Divya',
+            'title' => 'Happy',
+        ]);
+        Song::create([
+            'artist' => 'Ansh',
+            'title' => 'With',
+        ]);
     }
 }

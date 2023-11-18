@@ -5,7 +5,8 @@
     <title>Songs Page</title>
 </head>
 <body>
-<table>
+<h2>Songs Class</h2>
+<table border="1" >
 <tr>
 <th>Title</th>
 <th>Artist</th>
